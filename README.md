@@ -11,7 +11,7 @@ Traditionally, we need to obtain the .cif file containing structure information 
 ### New workflow based on dflow
 However, with the aid of dflow, the workflow can be achieve automatically. The dflow workflow diagram is shown in Figure 1.
 
-![alt 文字](./pics/dflow_diagram.jpg "Figure 1. The diagram of dflow workdflow for electronic structure calculation using VASP")
+![alt 文字](./pics/dflow_diagram.jpg)
 <center> Figure 1. The dflow diagram for electronic calculation based VASP</center>
 
 ### Codes 
